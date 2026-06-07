@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-AI Career Copilot - Streamlit Application
-Two-page app: Home (upload) → Dashboard (analysis results)
-"""
 import streamlit as st
 import json
 import os
